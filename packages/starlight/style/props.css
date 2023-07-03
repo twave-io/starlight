@@ -26,7 +26,7 @@
   --sl-color-purple-low: hsl(var(--sl-hue-purple), 39%, 22%);
   --sl-color-purple: hsl(var(--sl-hue-purple), 82%, 63%);
   --sl-color-purple-high: hsl(var(--sl-hue-purple), 82%, 89%);
-  --sl-hue-red: 339;
+  --sl-hue-red: 355;
   --sl-color-red-low: hsl(var(--sl-hue-red), 39%, 22%);
   --sl-color-red: hsl(var(--sl-hue-red), 82%, 63%);
   --sl-color-red-high: hsl(var(--sl-hue-red), 82%, 87%);
@@ -43,7 +43,6 @@
   --sl-color-bg-nav: var(--sl-color-gray-6);
   --sl-color-bg-sidebar: var(--sl-color-gray-6);
   --sl-color-bg-inline-code: var(--sl-color-gray-5);
-  --sl-color-hairline-light: var(--sl-color-gray-5);
   --sl-color-hairline: var(--sl-color-gray-6);
   --sl-color-hairline-shade: var(--sl-color-black);
 
@@ -151,7 +150,6 @@
   --sl-color-bg-nav: var(--sl-color-gray-7);
   --sl-color-bg-sidebar: var(--sl-color-bg);
   --sl-color-bg-inline-code: var(--sl-color-gray-6);
-  --sl-color-hairline-light: var(--sl-color-gray-6);
   --sl-color-hairline-shade: var(--sl-color-gray-6);
 
   --sl-color-backdrop-overlay: hsla(225, 9%, 36%, 0.66);
